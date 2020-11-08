@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-08T13:47:50.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="vGSe42McYNi4i4JEAEnZ" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-08T13:49:19.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="XpE0TQwHnqk8Q3mzjt-K" version="13.8.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1559" dy="1947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="909" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,7 +156,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TOOEis8IEXs0ktqzvL0H-1798" value="Kansallinen perustuslaki" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#F8CECC;" vertex="1" parent="1">
-          <mxGeometry x="475" width="110" height="40" as="geometry" />
+          <mxGeometry x="475" y="10" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TOOEis8IEXs0ktqzvL0H-1799" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Säädökset (lait) oikeudenaloittain&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;- pykälät&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;- normit&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="390" y="55" width="125" height="80" as="geometry" />
@@ -336,10 +336,10 @@
           <mxGeometry x="880" y="750" width="210" height="25.5" as="geometry" />
         </mxCell>
         <mxCell id="TOOEis8IEXs0ktqzvL0H-1853" value="Tietosuojalautakunta ja -valtuutettu" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;strokeColor=none;fillColor=#B3E9EB;" vertex="1" parent="1">
-          <mxGeometry x="880" y="785" width="210" height="42" as="geometry" />
+          <mxGeometry x="880" y="785" width="210" height="35" as="geometry" />
         </mxCell>
         <mxCell id="TOOEis8IEXs0ktqzvL0H-1854" value="&lt;h1&gt;Tapio Loponen&lt;/h1&gt;013592783&lt;br&gt;&lt;br&gt;Oikeustieteen perusteet (avoin yo)&lt;br&gt;Tehtävä 2 a) oikeuslähteet, kuva" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="947.5" width="210" height="120" as="geometry" />
+          <mxGeometry x="947.5" y="10" width="210" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
