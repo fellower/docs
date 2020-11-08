@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-08T13:41:14.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="4IueayhIrxrjhZNQ2dwr" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-08T13:43:52.398Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="ZqlMm1nSTbAeBVqQZ2Ck" version="13.8.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2453" dy="1749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -337,6 +337,9 @@
         </mxCell>
         <mxCell id="TOOEis8IEXs0ktqzvL0H-1853" value="Tietosuojalautakunta ja -valtuutettu" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;strokeColor=none;fillColor=#B3E9EB;" vertex="1" parent="1">
           <mxGeometry x="880" y="785" width="210" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="TOOEis8IEXs0ktqzvL0H-1854" value="&lt;h1&gt;Tapio Loponen&lt;/h1&gt;013592783&lt;br&gt;&lt;br&gt;Oikeustieteen perusteet (avoin yo)&lt;br&gt;Tehtävä 2 a) oikeuslähteet, kuva" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="-50" width="210" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
