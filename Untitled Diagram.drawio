@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-08T12:26:23.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="abUpaN0VUjcBd7BD4CdZ" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-08T12:43:32.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="DwRpz6TcZgFhR_SSjqH9" version="13.8.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2260" dy="1611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -123,12 +123,6 @@
         <mxCell id="TOOEis8IEXs0ktqzvL0H-1785" value="päätökset (Euroopan ihmisoikeustuoimioistuin ym.):&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="70" y="149" width="200" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="TOOEis8IEXs0ktqzvL0H-1786" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontColor=#000000;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="280" as="sourcePoint" />
-            <mxPoint x="570" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TOOEis8IEXs0ktqzvL0H-1790" value="" style="endArrow=classic;html=1;fontColor=#000000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#EA6B66;" edge="1" parent="1" source="1754" target="TOOEis8IEXs0ktqzvL0H-1785">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="70" as="sourcePoint" />
@@ -160,7 +154,7 @@
           <mxGeometry x="400" y="-20" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TOOEis8IEXs0ktqzvL0H-1800" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;asetukset&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#F8CECC;" vertex="1" parent="1">
-          <mxGeometry x="600" y="-20" width="85" height="30" as="geometry" />
+          <mxGeometry x="585" y="-20" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TOOEis8IEXs0ktqzvL0H-1801" value="&lt;div style=&quot;&quot;&gt;&lt;span&gt;ministeriöiden päätökset ja ohjeet&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="630" y="20" width="115" height="60" as="geometry" />
@@ -170,6 +164,42 @@
         </mxCell>
         <mxCell id="TOOEis8IEXs0ktqzvL0H-1805" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;esim. jokamiehenoikeudet&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="800" y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TOOEis8IEXs0ktqzvL0H-1806" value="" style="endArrow=classic;html=1;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#EA6B66;" edge="1" parent="1" source="1755" target="TOOEis8IEXs0ktqzvL0H-1799">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="466" y="109.5" as="sourcePoint" />
+            <mxPoint x="445" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOOEis8IEXs0ktqzvL0H-1807" value="" style="endArrow=classic;html=1;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#EA6B66;" edge="1" parent="1" source="1755" target="TOOEis8IEXs0ktqzvL0H-1798">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="466" y="109.5" as="sourcePoint" />
+            <mxPoint x="445" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOOEis8IEXs0ktqzvL0H-1808" value="" style="endArrow=classic;html=1;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#EA6B66;" edge="1" parent="1" source="1755" target="TOOEis8IEXs0ktqzvL0H-1800">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="466" y="109.5" as="sourcePoint" />
+            <mxPoint x="445" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOOEis8IEXs0ktqzvL0H-1809" value="" style="endArrow=classic;html=1;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#EA6B66;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1755" target="TOOEis8IEXs0ktqzvL0H-1801">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="466" y="109.5" as="sourcePoint" />
+            <mxPoint x="445" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOOEis8IEXs0ktqzvL0H-1810" value="" style="endArrow=classic;html=1;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#EA6B66;entryX=0.067;entryY=0.971;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1756" target="TOOEis8IEXs0ktqzvL0H-1804">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="466" y="109.5" as="sourcePoint" />
+            <mxPoint x="445" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOOEis8IEXs0ktqzvL0H-1811" value="" style="endArrow=classic;html=1;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#EA6B66;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1756" target="TOOEis8IEXs0ktqzvL0H-1805">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="466" y="109.5" as="sourcePoint" />
+            <mxPoint x="445" y="70" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
