@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-08T13:49:19.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="XpE0TQwHnqk8Q3mzjt-K" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-08T13:50:01.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="4eN3WV4gdaKfzX56CNhQ" version="13.8.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="909" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -65,6 +65,11 @@
         </mxCell>
         <mxCell id="1764" value="Heikosti velvoittavat oikeuslähteet" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="204.5" y="375.5" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TOOEis8IEXs0ktqzvL0H-1857" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeColor=#d79b00;strokeWidth=2;fontColor=#000000;fillColor=#ffe6cc;" edge="1" parent="1" source="1765">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1765" value="Hallituksen esitykset (HE) sisältäen perustelut säädettävälle laille" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#d79b00;strokeWidth=3;fillColor=#ffe6cc;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="94.5" y="260" width="170" height="60" as="geometry" />
@@ -340,6 +345,16 @@
         </mxCell>
         <mxCell id="TOOEis8IEXs0ktqzvL0H-1854" value="&lt;h1&gt;Tapio Loponen&lt;/h1&gt;013592783&lt;br&gt;&lt;br&gt;Oikeustieteen perusteet (avoin yo)&lt;br&gt;Tehtävä 2 a) oikeuslähteet, kuva" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="947.5" y="10" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TOOEis8IEXs0ktqzvL0H-1856" value="" style="curved=1;endArrow=classic;html=1;dashed=1;strokeColor=#009999;strokeWidth=2;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="500" as="sourcePoint" />
+            <mxPoint x="270" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="500" />
+              <mxPoint x="220" y="450" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
