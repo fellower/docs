@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-08T13:33:58.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="mBNHLzwuCEKo-gNRD6vo" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-08T13:41:14.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="4IueayhIrxrjhZNQ2dwr" version="13.8.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1792" dy="1275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2453" dy="1749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,16 +52,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1760" value="Muut? Historialliset, nykyään eivät virallisia oikeuslähteitä Suomessa?" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="490" y="571" width="165" height="79.5" as="geometry" />
+          <mxGeometry x="455" y="564.5" width="165" height="79.5" as="geometry" />
         </mxCell>
         <mxCell id="1761" value="Uskonnolliset normit" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="387.5" y="750" width="150" height="60" as="geometry" />
+          <mxGeometry x="360" y="743.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1762" value="Perusoikeudet 1500/1600l-" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="537.5" y="680" width="122.5" height="60" as="geometry" />
+          <mxGeometry x="502.5" y="673.5" width="122.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1763" value="Moraalinormit (antiikki)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="320" y="680" width="150" height="60" as="geometry" />
+          <mxGeometry x="330" y="670" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1764" value="Heikosti velvoittavat oikeuslähteet" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="50" y="385.5" width="150" height="60" as="geometry" />
@@ -234,12 +234,6 @@
         <mxCell id="TOOEis8IEXs0ktqzvL0H-1817" value="KHO vuosikirjapäätökset" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;strokeColor=none;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="129" y="630" width="171" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TOOEis8IEXs0ktqzvL0H-1818" value="" style="endArrow=classic;html=1;strokeColor=#EA6B66;fontColor=#000000;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="320" as="sourcePoint" />
-            <mxPoint x="130" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TOOEis8IEXs0ktqzvL0H-1820" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#EA6B66;fontColor=#000000;" edge="1" parent="1" source="TOOEis8IEXs0ktqzvL0H-1814" target="TOOEis8IEXs0ktqzvL0H-1817">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -322,10 +316,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TOOEis8IEXs0ktqzvL0H-1847" value="Oikeusrealismi, tuomarinideologia (US 1900l-?)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="630" y="750" width="150" height="60" as="geometry" />
+          <mxGeometry x="570" y="743.5" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TOOEis8IEXs0ktqzvL0H-1848" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#1699D3;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1760" target="TOOEis8IEXs0ktqzvL0H-1847">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="TOOEis8IEXs0ktqzvL0H-1848" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#1699D3;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1760">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="741.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOOEis8IEXs0ktqzvL0H-1849" value="valtiosopimukset?" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;dashed=1;strokeColor=#009999;fillColor=#61C6CE;" vertex="1" parent="1">
+          <mxGeometry x="650" y="474.5" width="150" height="45.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TOOEis8IEXs0ktqzvL0H-1850" value="tuloverosopimukset?" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;dashed=1;strokeColor=#009999;fillColor=#61C6CE;" vertex="1" parent="1">
+          <mxGeometry x="650" y="534.5" width="150" height="45.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TOOEis8IEXs0ktqzvL0H-1851" value="Työtuomioistuin?" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;strokeColor=none;fillColor=#B3E9EB;" vertex="1" parent="1">
+          <mxGeometry x="880" y="718" width="210" height="25.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TOOEis8IEXs0ktqzvL0H-1852" value="Vakuutusoikeus?" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;strokeColor=none;fillColor=#B3E9EB;" vertex="1" parent="1">
+          <mxGeometry x="880" y="750" width="210" height="25.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TOOEis8IEXs0ktqzvL0H-1853" value="Tietosuojalautakunta ja -valtuutettu" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;strokeColor=none;fillColor=#B3E9EB;" vertex="1" parent="1">
+          <mxGeometry x="880" y="785" width="210" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
